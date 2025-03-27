@@ -68,5 +68,3 @@ The notebook will walk you through various experiments, including:
 - **Real-World Data**: Running experiments on real-world datasets like the California Housing and Letter Recognition datasets.
 - **Multicollinearity and Correlated Features**: Studying how feature correlations affect the interaction detection process.
 - **Permutation Test**: Estimating the power of detected interactions through permutation testing.
-
-```
