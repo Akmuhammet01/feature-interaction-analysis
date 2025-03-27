@@ -49,7 +49,7 @@ The repository is organized as follows:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/NID-Project.git
+git clone https://github.com/Akmuhammet01/feature-interaction-analysis.git
 cd NID-Project
 ```
 
