@@ -69,10 +69,4 @@ The notebook will walk you through various experiments, including:
 - **Multicollinearity and Correlated Features**: Studying how feature correlations affect the interaction detection process.
 - **Permutation Test**: Estimating the power of detected interactions through permutation testing.
 
-### 4. Visualizations
-The notebook includes visualizations for the results of the experiments. These include:
-- Heatmaps for pairwise interaction strengths.
-- Bar charts for interaction strength comparisons.
-- Performance metrics such as AUC and R-Precision.
-
 ```
